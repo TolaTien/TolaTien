@@ -3,7 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!++I+Am+TienLV;Vide+Coding+is+number+one+%F0%9F%98%8E;Backend+Developer" alt="Typing SVG" /></a>
 </h1>
 
-<br><br>
 <div align="center">
 <img src="https://api.visitorbadge.io/api/visitors?path=guriii3108&labelColor=%230a0209&countColor=%230a0209&labelStyle=upper" />
 </div>
