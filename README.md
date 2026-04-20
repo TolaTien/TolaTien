@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=700&size=27&letterSpacing=1px&pause=1000&color=F71313&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Lê + Văn + Tiến+%F0%9F%98%83;Backend+Developer+;Coffee+%E2%98%95%EF%B8%8F+Lover;Problem+Solver+%E2%9C%8D%F0%9F%8F%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!++I+Am+TienLV;Vide+Coding+is+number+one+%F0%9F%98%8E;Backend+Developer" alt="Typing SVG" /></a>
 </h1>
 
 # 💻 Tech Stack:
